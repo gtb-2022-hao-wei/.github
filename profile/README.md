@@ -1,48 +1,15 @@
-## Hi there 👋
+# Hi! I'm Hao Wei
 
-下一步尝试如何插入照片
-
-🙋‍♀️ A short introduction - what is your organization all about?
-
-🌈 Contribution guidelines - how can the community get involved?
-
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-
-🍿 Fun facts - what does your team eat for breakfast?
-
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)🙋‍♀️ A short introduction - what is your organization all about?
-
-🌈 Contribution guidelines - how can the community get involved?
-
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-
-🍿 Fun facts - what does your team eat for breakfast?
-
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)🙋‍♀️ A short introduction - what is your organization all about?
-
-🌈 Contribution guidelines - how can the community get involved?
-
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-
-🍿 Fun facts - what does your team eat for breakfast?
-
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)🙋‍♀️ A short introduction - what is your organization all about?
-
-🌈 Contribution guidelines - how can the community get involved?
-
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-
-🍿 Fun facts - what does your team eat for breakfast?
+😁 一名即将入职***ThoughtWorks***的~~数据开发工程师~~**新人小白**
 
 
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-<!--
+📷 coach说必须得放上一张照片，🙉对我这个万年不拍照的直男简直是太不友好了😭
 
-**Here are some ideas to get you started:**
+😶 挡脸自拍
+![挡脸自拍.jpg](pics/挡脸自拍.jpg)
+---
+😲 露脸自拍
+![露脸自拍.jpg](pics/露脸自拍.jpg)
+---
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 👩‍💻 希望能够和大家共同进步，尽快融入TW大家庭当中
