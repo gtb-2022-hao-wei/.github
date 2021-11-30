@@ -6,10 +6,10 @@
 📷 coach说必须得放上一张照片，🙉对我这个万年不拍照的直男简直是太不友好了😭
 
 😶 挡脸自拍
-![挡脸自拍.jpg](pics/挡脸自拍.jpg)
+<img src="pics/挡脸自拍.jpg" width="400" height="400">
 ---
 😲 露脸自拍
-![露脸自拍.jpg](pics/露脸自拍.jpg)
+<img src="pics/露脸自拍.jpg" width="450" height="380">
 ---
 
  👩‍💻 希望能够和大家共同进步，尽快融入TW大家庭当中
